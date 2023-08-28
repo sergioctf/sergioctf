@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sergioctf
-- 👀 I’m interested in programing, maths and engineering
+- 👀 I’m interested in programing, finances, maths and engineering
 - 🌱 I’m currently learning computer engineering
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me: sctcarmelo@gmail.com or through my linkedin
