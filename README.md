@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sergioctf
-- 👀 I’m interested in programing, finances, maths and engineering
+- 👀 I’m interested in programing, finance, math and engineering
 - 🌱 I’m currently learning computer engineering
-- 💞️ I’m looking to collaborate 
-- 📫 How to reach me: sctcarmelo@gmail.com or through my linkedin
+- 📫 How to reach me: sergioctf@al.insper.edu.br or through my linkedin
 
 <!---
 sergioctf/sergioctf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
